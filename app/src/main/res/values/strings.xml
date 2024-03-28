@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MAD MID Exam</string>
+
+    <!-- Question 1 -->
+    <string name="question_1">What is the capital of France?</string>
+    <string-array name="options_question_1">
+        <item>Paris</item>
+        <item>London</item>
+        <item>Berlin</item>
+        <item>Madrid</item>
+    </string-array>
+    <integer name="answer_index_1">0</integer>
+
+    <!-- Question 2 -->
+    <string name="question_2">Who wrote \'Hamlet\'?</string>
+    <string-array name="options_question_2">
+        <item>William Shakespeare</item>
+        <item>Charles Dickens</item>
+        <item>Leo Tolstoy</item>
+        <item>Mark Twain</item>
+    </string-array>
+    <integer name="answer_index_2">0</integer>
+
+    <!-- Question 3 -->
+    <string name="question_3">What is the smallest planet in our solar system?</string>
+    <string-array name="options_question_3">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+    <integer name="answer_index_3">0</integer>
+
+    <!-- Question 4 -->
+    <string name="question_4">Which element has the chemical symbol \'O\'?</string>
+    <string-array name="options_question_4">
+        <item>Gold</item>
+        <item>Oxygen</item>
+        <item>Silver</item>
+        <item>Iron</item>
+    </string-array>
+    <integer name="answer_index_4">1</integer>
+
+    <!-- Question 5 -->
+    <string name="question_5">In which country is the Great Barrier Reef located?</string>
+    <string-array name="options_question_5">
+        <item>India</item>
+        <item>Brazil</item>
+        <item>Australia</item>
+        <item>Egypt</item>
+    </string-array>
+    <integer name="answer_index_5">2</integer>
+
+</resources>
